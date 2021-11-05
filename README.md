@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshalGupta113
+- 👋 Hi, I’m @HarshalGupta
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on App Project
