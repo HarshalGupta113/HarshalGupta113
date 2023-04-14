@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshal Gupta
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Computer Science
+- 🌱 I have completed learning Computer Science
 - 💞️ I’m looking to collaborate on App Project
 - 📫 Reach me at harshalgupta113@gmail.com
 
